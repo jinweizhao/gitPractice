@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.*****EN.****</string>
+				<string>com.dafy.KDZSIdentifier</string>
 				<key>bundle-version</key>
 				<string>0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>应用名称</string>
+				<string>小助手</string>
 			</dict>
 		</dict>
 	</array>
